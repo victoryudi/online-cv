@@ -41,7 +41,7 @@ career-profile:
     Even though I love to put on a hoodie, pop some red bulls and program through the night,
     I constantly find myself drawn to managing product teams, market strategies and sometimes, sales.
 
-    Because of the startup (HeyCheff) I founded with some other incredible people, 
+    Because of the startup (HeyCheff) I founded with some other incredible people,
     I had the opportunity to learn a bit of every main area in a company, from product to sales.
     Besides, it also allowed me to learn from some of the most amazing professionals that worked with us as mentors and investors.
 
@@ -49,8 +49,8 @@ career-profile:
     which I hadn't hired and take to market a product that I hadn't developed. This was one of the most intense and hard moments of my career until now, but I love all the knowledge and experience it brought to my life.
 
 education:
-  - degree: MSc in Computer Science
-    university: University of London
+  - degree: BSc in Computer Science
+    university: Federal University of Santa Catarina
     time: 2011 - 2012
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -76,48 +76,59 @@ education:
         - Bullet point
 
 experiences:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: CEO
+    time: 08/2018 - 03/2019
+    company: DConsumer
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
+      DConsumer offers realtime intelligence for pharmaceutical industry’s
+      sales reps, by integrating to its distributors and collecting
+      strategical data.
 
-        - Bullet point
-        - Bullet point
-
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+  - role: Operations Manager
+    time: 08/2017 - 08/2018
+    company: Máxima Sistemas
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
+      At Máxima I had two roles, managing the product team,
+      with 20+ people and as Market Manager, defining sales and customer
+      relationship strategies and providing support to both.
 
-        - Bullet point
-        - Bullet point
-
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
+  - role: CEO
+    time: 01/2014 - 06/2017
+    company: HeyCheff
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
+      HeyCheff started as a way for customers to order ahead at restaurants,
+      by choosing the arrival time and paying through the app.
+      Later we pivoted to a white-label delivery platform and at the June 2017
+      sold the company to Máxima Sistemas.
 
-        - Bullet point
-        - Bullet point
+  - role: Mobile Developer
+    time: 08/2014 - 04/2015
+    company: mobLee
+    details: |
+      mobLee is a startup that creates apps for events.
+      It has been growing really fast and, because we deliver a different app
+      for each client, I have the opportunity to do the whole deployment
+      process multiple times in a week. Also, I have been learning how to deal
+      with clients demands and to work under pressure to deploy a great
+      product in a, sometimes, short period of time.
+
+  - role: Mobile Developer
+    time: 03/2014 - 07/2014
+    company: LOGO
+    details: |
+      LOGO is a university laboratory, specialised in branding.
+      As a developer I would work with a group of designers to develop
+      everything they needed to build the clients brand.
+      By working with so many designers I was able to develop a sense of good
+      practices and patterns of UI and UX in a mobile platform.
+
+  - role: Partner & Web Developer
+    time: 02/2010 - 04/2011
+    company: Portal Cezarina
+    details: |
+      This was my first tech related company. We built websites displaying
+      news, media related to most events and promoted local businesses for
+      small to medium country cities in GO - Brazil.
 
 projects:
   title: Projects
